@@ -1,0 +1,6 @@
+{
+  "name": "easier",
+  "description": "Aplikasi akuntansi mobile enterprise multi-tenant dengan registrasi email perusahaan, OCR invoice real-time anti double-scan, integrasi Open Banking SNAP BI, dan DJP Coretax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
